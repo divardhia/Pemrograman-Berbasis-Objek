@@ -26,7 +26,6 @@ public class PersegiPanjang extends BangunDatar {
         return luas;
     }
 
-    @Override
     public float keliling() {
         float keliling = 2 * panjang + 2 * lebar;
         System.out.println("Keliling Persegi Panjang: " + keliling);
