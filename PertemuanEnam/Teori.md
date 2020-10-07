@@ -82,7 +82,7 @@ public class Segitiga extends BangunDatar {
 
 ## output segitiga
 
-<img src = 'outputSeg.PNG'>
+<img src = 'outputseg.PNG'>
 
 ## Class Main
 
