@@ -19,27 +19,27 @@ tabel transaksi berhubungan dengan tabel admin, pembeli, dan tiket sehingga terd
 
 ## relasi database
 
-<img src = 'relasi database.png'>
+<img src = 'relasi database.PNG'>
 
 ## GUI
 
 - menu
 
-<img src = 'menu.png'>
+<img src = 'menu.PNG'>
 
 - admin
 
-<img src = 'admin.png'>
+<img src = 'admin.PNG'>
 
 - pembeli
 
-<img src = 'pembeli.png'>
+<img src = 'pembeli.PNG'>
 
 - tiket
 
-<img src = 'tiket.png'>
+<img src = 'tiket.PNG'>
 
 - transaksi
 
-<img src = 'transaksi.png'>
+<img src = 'transaksi.PNG'>
 
